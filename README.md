@@ -13,7 +13,7 @@
 * On the client side, it utilizes React to create a responsive and interactive user interface, enabling users to view, add, edit, and delete posts seamlessly. 
 * Additionally, the application supports file uploads for post images.
   
-### Built With
+### Tech Stack
 
 * React
 * Node.js
